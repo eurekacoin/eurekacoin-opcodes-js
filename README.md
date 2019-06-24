@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# eurekacoin-opcodes-js
+The EUREKACOIN opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install eurekacoin-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('eurekacoin-opcodes')
 ```

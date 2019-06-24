@@ -1,23 +1,23 @@
 {
-  "name": "qtum-opcodes",
+  "name": "eurekacoin-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The EUREKACOIN opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/eurekacoin/eurekacoin-opcodes-js.git"
   },
   "keywords": [
-    "qtum",
+    "eurekacoin",
     "opcodes"
   ],
-  "author": "Qtum Weiyu",
+  "author": "EurekaCoin Weiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/eurekacoin/eurekacoin-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/eurekacoin/eurekacoin-opcodes-js#readme"
 }
